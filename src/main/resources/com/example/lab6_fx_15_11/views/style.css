@@ -1,0 +1,23 @@
+/* styles.css */
+
+.root {
+    -fx-background-image: url('background-mhdoyguhq3skloxt.jpg');
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+.table-view {
+    -fx-background-color: #8B4513; /* Maro inchis */
+    -fx-table-cell-border-color: #D2691E; /* Maro deschis */
+}
+
+.custom-table {
+    -fx-background-color: #8B4513; /* Maro inchis */
+}
+
+.custom-table .column-header-background {
+    -fx-background-color: #D2691E; /* Maro deschis */
+}
+
+.button-yellow {
+    -fx-background-color: #FFD700; /* Galben */
+}
